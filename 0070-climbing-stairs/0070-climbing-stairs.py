@@ -1,11 +1,14 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo = {1:1, 2:2}
+        if n == 1:
+            return 1
+        if n == 2:
+            return 2
+        
+        mapp = [0]*n
+        mapp[0] = 1
+        mapp[1] = 2
 
-        def f(x):
-            if x in memo:
-                return memo[x]
-            else:
-                memo[x] = f(x-2) + f(x-1)
-                return memo[x]
-        return f(n)
+        for i in range(2,n):
+            mapp[i] = mapp[i-2] + mapp[i-1]
+        return mapp[n-1]
