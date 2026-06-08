@@ -5,7 +5,8 @@ class Solution:
         for i in nums:
             if i == 1:
                 count += 1
-                maxx = max(maxx, count)
             else:
+                maxx = max(maxx, count)
                 count = 0
+        maxx = max(maxx, count)
         return maxx
