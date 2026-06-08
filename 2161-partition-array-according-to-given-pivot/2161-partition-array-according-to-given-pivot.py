@@ -10,5 +10,4 @@ class Solution:
                 count += 1
             else:
                 res2.append(nums[i])
-        res = res1 + [pivot]*count + res2
-        return res
+        return res1 + [pivot]*count + res2
