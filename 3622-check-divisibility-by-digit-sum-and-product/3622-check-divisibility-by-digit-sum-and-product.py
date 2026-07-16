@@ -8,6 +8,4 @@ class Solution:
             summ += ld
             prod *= ld
             n //= 10
-        if temp % (summ + prod) == 0:
-            return True
-        return False
+        return temp % (summ + prod) == 0
