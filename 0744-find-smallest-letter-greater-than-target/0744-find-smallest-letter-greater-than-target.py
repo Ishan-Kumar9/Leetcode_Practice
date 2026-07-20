@@ -4,4 +4,5 @@ class Solution:
         for i in letters:
             if ord(i) > s:
                 return i
+                break
         return letters[0]
