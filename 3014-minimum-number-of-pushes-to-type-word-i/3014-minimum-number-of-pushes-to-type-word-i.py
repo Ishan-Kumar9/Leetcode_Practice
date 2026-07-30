@@ -1,7 +1,6 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         n = len(word)
-        ans = 0
         if n < 9:
             return n
         elif n < 17:
