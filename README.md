@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
