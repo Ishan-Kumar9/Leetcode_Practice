@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3360-stone-removal-game](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
