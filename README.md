@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/0229-majority-element-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -56,13 +57,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ishan-Kumar9/Leetcode_Practice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
