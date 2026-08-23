@@ -14,11 +14,8 @@ class Solution:
                     right += int(num[i])
                 else:
                     rcount += 1
-        if lcount == 0 and rcount == 0:
-            return left != right
 
         if (lcount + rcount) % 2 != 0:
             return True
         
         return left - right != (rcount - lcount)*9//2
-            
