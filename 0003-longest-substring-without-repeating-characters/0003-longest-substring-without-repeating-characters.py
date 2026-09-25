@@ -1,5 +1,9 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        if not s:
+            return 0
+        if len(s) == 1:
+            return 1
         maxx = 0
         for j in range(len(s)-1):
             seen = set()
